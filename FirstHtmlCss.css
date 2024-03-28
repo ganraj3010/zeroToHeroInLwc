@@ -1,0 +1,22 @@
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: orange;
+}
+
+.class1{
+    background-color: white;
+}
+
+.class2{
+    width: 20%; 
+    border:5px solid blue;
+    border-radius: 50%;
+}
+
+#ID1{
+    background-color: green;
+}
+
