@@ -267,7 +267,7 @@ promiseObj.then(result=>{
 /***************** Event *************************/
 
 /***************** Event Prpogation *************************/
-
+ 
 /***************** CustomEvent *************************/
 function handleClick(){
     console.log("handleClicks")
